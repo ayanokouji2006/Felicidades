@@ -9,7 +9,7 @@
 :root {
   --dark-color: #010113;
 }
-
+ <style> .mensaje { color de fondo: rgba(255, 255, 255, 0.8); relleno: 10px; alineación del texto: centro; ancho: 100%; } </style>
 body {
   display: flex;
   align-items: flex-end;
